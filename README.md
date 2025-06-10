@@ -1,6 +1,8 @@
 # wakastat.nvim
 Display your WakaTime coding stats in your Neovim statusline — supports daily, weekly, or monthly views, custom formatting, and async updates.
-![wakastat screenshot](https://github.com/user-attachments/assets/4dba6071-bf6e-445e-9b2e-1e4ce5d120c8)
+
+![CleanShot 2025-06-10 at 19 27 50](https://github.com/user-attachments/assets/a9a60bf4-261e-4284-800f-72877eb628f0)
+
 
 ## ✨ Features
 - ✅ Async WakaTime CLI integration via `vim.loop`
